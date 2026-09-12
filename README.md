@@ -1,9 +1,5 @@
 # 🏥 UrbanMed-Sync
 
->## A smart hospital management system designed to optimize patient flow, bed availability, admissions, and inventory management.
-
----
-
 ##  Project Overview
 
 **UrbanMed Sync** is an innovative hospital management solution designed to streamline patient management in **Outpatient Departments (OPDs)**, optimize **bed availability**, and enhance the **admission process**.
