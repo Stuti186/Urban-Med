@@ -1,6 +1,6 @@
 # 🏥 UrbanMed-Sync
 
-># A smart hospital management system designed to optimize patient flow, bed availability, admissions, and inventory management.
+>## A smart hospital management system designed to optimize patient flow, bed availability, admissions, and inventory management.
 
 ---
 
